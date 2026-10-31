@@ -1,0 +1,7 @@
+{
+  "name": "Paraf - Tanda Tangan ke Galeri PNG",
+  "description": "Aplikasi praktis untuk membuat tanda tangan digital, menyesuaikan tinta & gaya pena, dan menyimpannya dalam format PNG berkualitas tinggi dengan latar transparan langsung ke galeri perangkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
